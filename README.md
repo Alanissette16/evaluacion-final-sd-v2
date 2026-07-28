@@ -47,8 +47,12 @@ Captura o registro del contenedor final respondiendo desde la máquina anfitrion
 Captura o registro del workflow inicial.
 ![alt text](workflow-inicial.png)
 Captura o registro de una ejecución donde una prueba falla.
+![alt text](falla-intencional.png)
 Captura o registro que demuestre el comportamiento defectuoso inicial del pipeline.
+![alt text](pipeline-fallido.png)
 Captura o registro del workflow corregido.
+![alt text](workflow-corregido.png)
 Captura o registro de una ejecución donde el despliegue se bloquea por una prueba fallida.
+
 Captura o registro de una ejecución final donde las pruebas pasan y el despliegue continúa.
 ## Evidencias Reto 4
