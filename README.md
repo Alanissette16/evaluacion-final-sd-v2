@@ -45,7 +45,7 @@ Captura o registro del contenedor final respondiendo desde la máquina anfitrion
 ![alt text](maquina-anfitriona.png)
 ## Evidencias Reto 3
 Captura o registro del workflow inicial.
-
+![alt text](workflow-inicial.png)
 Captura o registro de una ejecución donde una prueba falla.
 Captura o registro que demuestre el comportamiento defectuoso inicial del pipeline.
 Captura o registro del workflow corregido.
