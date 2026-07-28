@@ -34,11 +34,21 @@ Captura o registro de npm test ejecutándose correctamente después del ajuste.
 
 ## Evidencias Reto 2
 Captura o registro de la construcción inicial de la imagen.
+![alt text](Imagen-fallosa.png)
 Captura o registro que muestre si el build inicial valida o no las pruebas.
 Captura o registro del Dockerfile final.
+![alt text](Dockerfile-final.png)
 Captura o registro de un build bloqueado cuando existe una prueba fallida.
+![alt text](bloqueado.png)
 Captura o registro de un build exitoso cuando las pruebas pasan.
 Captura o registro del contenedor final respondiendo desde la máquina anfitriona.
+![alt text](maquina-anfitriona.png)
 ## Evidencias Reto 3
+Captura o registro del workflow inicial.
 
+Captura o registro de una ejecución donde una prueba falla.
+Captura o registro que demuestre el comportamiento defectuoso inicial del pipeline.
+Captura o registro del workflow corregido.
+Captura o registro de una ejecución donde el despliegue se bloquea por una prueba fallida.
+Captura o registro de una ejecución final donde las pruebas pasan y el despliegue continúa.
 ## Evidencias Reto 4
