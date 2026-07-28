@@ -53,6 +53,7 @@ Captura o registro que demuestre el comportamiento defectuoso inicial del pipeli
 Captura o registro del workflow corregido.
 ![alt text](workflow-corregido.png)
 Captura o registro de una ejecución donde el despliegue se bloquea por una prueba fallida.
-
+![alt text](block-despliegue.png)
 Captura o registro de una ejecución final donde las pruebas pasan y el despliegue continúa.
+
 ## Evidencias Reto 4
